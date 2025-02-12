@@ -57,7 +57,7 @@
         <item>
          <widget class="QLabel" name="matrix_Gright_label">
           <property name="text">
-           <string>Матрица правых инциденций G+</string>
+           <string>Множество правых инциденций G+</string>
           </property>
          </widget>
         </item>
@@ -71,7 +71,7 @@
         <item>
          <widget class="QLabel" name="matrix_Glelt_label">
           <property name="text">
-           <string>Матрица левых инциденций G-</string>
+           <string>Множество левых инциденций G-</string>
           </property>
          </widget>
         </item>

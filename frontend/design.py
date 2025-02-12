@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file '.\design.ui'
+# Form implementation generated from reading ui file '.\frontend\design.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #
@@ -83,5 +83,5 @@ class Ui_MainWindow(object):
         self.count_label.setText(_translate("MainWindow", "Количество вершин:"))
         self.calculate.setText(_translate("MainWindow", "Получить"))
         self.matrix_smez_label.setText(_translate("MainWindow", "Матрица смежности"))
-        self.matrix_Gright_label.setText(_translate("MainWindow", "Матрица правых инциденций G+"))
-        self.matrix_Glelt_label.setText(_translate("MainWindow", "Матрица левых инциденций G-"))
+        self.matrix_Gright_label.setText(_translate("MainWindow", "Множество правых инциденций G+"))
+        self.matrix_Glelt_label.setText(_translate("MainWindow", "Множество левых инциденций G-"))
