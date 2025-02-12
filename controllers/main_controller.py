@@ -7,5 +7,5 @@ class MainController:
         self.view.calculate.clicked.connect(self.on_button_click_calculate)
 
     def on_button_click_calculate(self):
-        data = self.model.get_data()  # Получаем данные из модели
+        data = self.model.get_matrixs()  # Получаем данные из модели
         print(data)
